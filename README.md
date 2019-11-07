@@ -12,4 +12,4 @@ and then in client directory,
 
 ### `cd client`
 
-### `npm start`
+### `npm start` or `yarn start`
